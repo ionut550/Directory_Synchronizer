@@ -1,0 +1,42 @@
+2023-04-05 22:21:25.293021: Synchronization completed
+2023-04-05 22:21:47.344269: File Anul III.ppt was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source\OBS to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS
+2023-04-05 22:21:47.346271: File Flowers.txt was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source\OBS to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS
+2023-04-05 22:21:47.347271: File Invatare.cvs was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source\OBS to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS
+2023-04-05 22:21:47.348273: File Majotori.jocuri was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source\OBS to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS
+2023-04-05 22:21:47.349273: File OBS.ceva was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source\OBS to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS
+2023-04-05 22:21:47.350274: File RawAccel.xml was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source\OBS to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS
+2023-04-05 22:21:47.351275: File ceva was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source\OBS to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS
+2023-04-05 22:21:47.352276: File ceva.altceva was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source\OBS to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS
+2023-04-05 22:21:47.353277: File ceva.ceva was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source\OBS to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS
+2023-04-05 22:21:50.428835: File Anul III.ppt was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\Anul III.ppt
+2023-04-05 22:21:50.428835: File Flowers.txt was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\Flowers.txt
+2023-04-05 22:21:50.429836: File Invatare.cvs was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\Invatare.cvs
+2023-04-05 22:21:50.429836: File Majotori.jocuri was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\Majotori.jocuri
+2023-04-05 22:21:50.430837: File OBS.ceva was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS.ceva
+2023-04-05 22:21:50.431838: File RawAccel.xml was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\RawAccel.xml
+2023-04-05 22:21:50.431838: File ceva was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\ceva
+2023-04-05 22:21:50.432838: File ceva.altceva was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\ceva.altceva
+2023-04-05 22:21:50.432838: File ceva.ceva was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\ceva.ceva
+2023-04-05 22:21:50.433839: Synchronization completed
+2023-04-05 22:22:10.436093: File Anul III.ppt was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica
+2023-04-05 22:22:10.437084: File Flowers.txt was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica
+2023-04-05 22:22:10.438086: File Invatare.cvs was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica
+2023-04-05 22:22:10.438086: File Majotori.jocuri was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica
+2023-04-05 22:22:10.440087: File OBS.ceva was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica
+2023-04-05 22:22:10.441089: File RawAccel.xml was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica
+2023-04-05 22:22:10.442089: File ceva was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica
+2023-04-05 22:22:10.444091: File ceva.altceva was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica
+2023-04-05 22:22:10.444091: File ceva.ceva was copied from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\source to D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica
+2023-04-05 22:22:15.548408: File Anul III.ppt was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS\Anul III.ppt
+2023-04-05 22:22:15.548408: File Flowers.txt was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS\Flowers.txt
+2023-04-05 22:22:15.549409: File Invatare.cvs was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS\Invatare.cvs
+2023-04-05 22:22:15.550410: File Majotori.jocuri was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS\Majotori.jocuri
+2023-04-05 22:22:15.550410: File OBS.ceva was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS\OBS.ceva
+2023-04-05 22:22:15.551411: File RawAccel.xml was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS\RawAccel.xml
+2023-04-05 22:22:15.551411: File ceva was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS\ceva
+2023-04-05 22:22:15.552411: File ceva.altceva was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS\ceva.altceva
+2023-04-05 22:22:15.552411: File ceva.ceva was deleted from D:\Munca\Cursuri\udemy\Python\Python_Projects\Intermediate+\Directory_Synchronizer\replica\OBS\ceva.ceva
+2023-04-05 22:22:15.562420: Synchronization completed
+2023-04-05 22:22:40.667340: Synchronization completed
+2023-04-05 22:23:05.855661: Synchronization completed
+2023-04-05 22:23:30.948412: Synchronization completed
